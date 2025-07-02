@@ -1,0 +1,69 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+    # Built application files
+    *.apk
+    *.aab
+    *.ap_
+
+    # Files for the ART/Dalvik VM
+    *.dex
+
+    # Java class files
+    *.class
+
+    # Generated files
+    bin/
+    gen/
+    out/
+
+    # Gradle files
+    .gradle/
+    build/
+
+    # Local configuration files (SDK path, etc)
+    local.properties
+    .idea/workspace.xml
+    .idea/libraries/
+    .idea/navEditor.xml
+    .idea/assetWizardSettings.xml
+
+    # IntelliJ
+    *.iml
+    modules.xml
+    .idea/misc.xml
+    *.ipr
+    *.iws
+
+    # Mac
+    .DS_Store
+
+    # Captures folder
+    captures/
+
+    # Signature files
+    *.jks
+    *.keystore
+
+    # External native build folder created in Android Studio 2.2 and later
+    .externalNativeBuild
+
+    # Crashlytics plugin
+    com_crashlytics_export_strings.xml
+
+    # Google Services (do not commit your google-services.json if it contains sensitive info,
+    # or if you are working in a public repo. Instead, provide setup instructions.)
+    # google-services.json
