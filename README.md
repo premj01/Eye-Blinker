@@ -68,7 +68,7 @@ Take control of your screen time and protect your eyes! Eye Blinker is a simple 
 
 ## ⬇️ Download
 
-You can download the latest version of Eye Blinker from [**YOUR_DOWNLOAD_PAGE_OR_SERVICE_NAME_HERE**](YOUR_ACTUAL_DOWNLOAD_LINK_HERE).
+You can download the latest version of Eye Blinker from [**Eye Blinker by Prem Jadhav**](https://drive.google.com/file/d/1vdBgr6LgFe5J9W0CIy5WhGP_6kDS0nhB/view?usp=drive_link).
 
 *   **Example for a direct APK link (if you host it somewhere like GitHub Releases):**
     `[Download Latest APK](https://github.com/yourusername/EyeBlinkerApp/releases/latest/download/app-release.apk)`
@@ -126,9 +126,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👤 Author & Contact
 
-*   **Your Name / Username**
-*   GitHub: `[@yourusername](https://github.com/yourusername)`
-*   Email: `youremail@example.com` (Optional)
+*   **Prem Jadhav / premj01**
+*   GitHub: `[@premj01](https://github.com/premj01)`
+*   Email: `premjadhav00002@gmail.com` (Optional)
 
 ---
 
